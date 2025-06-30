@@ -1,0 +1,65 @@
+#error {
+  background-color: black;
+  color: yellow;
+  text-align: center;
+  font-size: 30px;
+  margin: 0px 30px;
+}
+.container {
+  background-color: aquamarine;
+  margin: 10px 200px;
+  align-content: center;
+}
+form {
+  justify-content: center;
+  margin: 0px 100px;
+}
+#ha {
+  text-align: center;
+}
+input {
+  border-radius: 30px;
+  margin: 3px 5px;
+  text-align: center;
+  width: 50%;
+  padding: 5px 20px;
+}
+button {
+  margin: 10px 5px;
+  display: block;
+  width: 100%;
+  background-color: blue;
+  border-radius: 50px;
+  color: white;
+  font-size: 20px;
+  transition: 0.5s;
+  box-shadow: 1px 2px 4px wheat;
+  border: none;
+}
+button:hover {
+  background-color: palevioletred;
+  transform: scale(1.2);
+}
+select {
+  border-radius: 30px;
+  margin: 3px 5px;
+  text-align: center;
+  width: 50%;
+  padding: 5px 20px;
+}
+label {
+  font-weight: bolder;
+}
+table {
+  width: 100%;
+}
+thead {
+  background-color: yellowgreen;
+  border: 3px black solid;
+  font-size: 30px;
+}
+tbody {
+  background-color: yellow;
+  font-size: 20px;
+  font-weight: bolder;
+}

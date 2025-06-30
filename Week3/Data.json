@@ -1,0 +1,26 @@
+[
+  {
+    "name": "pattra",
+    "city": "kampala",
+    "age": 23,
+    "number": 12
+  },
+  {
+    "name": "vivian",
+    "city": "kampala",
+    "age": 23,
+    "number": 12
+  },
+  {
+    "name": "Brian",
+    "city": "Masaka",
+    "age": 23,
+    "number": 12
+  },
+  {
+    "name": "sharon",
+    "city": "Masaka",
+    "age": 23,
+    "number": 12
+  }
+]

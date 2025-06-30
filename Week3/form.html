@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="form.css" />
+    <title>Document</title>
+  </head>
+  <body>
+    <div class="container">
+      <h1 id="ha">CHICK REQUEST FORM</h1>
+      <form id="chickForm">
+        <label for="name">Farmername:</label><br />
+        <input type="text" id="name" name="name" /><br />
+
+        <label for="age">Age:</label><br />
+        <input type="number" name="age" id="age" /><br />
+        <label for="chickType">ChickType:</label><br />
+        <select name="chickType" id="chickType">
+          <br />
+          <option>Layers</option>
+          <br />
+          <option>Broilers</option>
+          <br /></select
+        ><br />
+        <label for="quantity">Number of Chicks:</label><br />
+        <input type="number" name="quantity" id="quantity" /><br />
+        <button type="submit">Submit</button>
+      </form>
+
+      <p id="error"></p>
+      <br />
+    </div>
+    <br />
+
+    <table id="requestTable">
+      <thead>
+        <th>Name</th>
+        <th>Age</th>
+        <th>ChickType</th>
+        <th>Quantity</th>
+      </thead>
+      <tbody></tbody>
+    </table>
+    
+      
+
+    <script src="form.js"></script>
+  </body>
+</html>

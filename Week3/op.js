@@ -1,0 +1,1 @@
+// five ways of creating objects
