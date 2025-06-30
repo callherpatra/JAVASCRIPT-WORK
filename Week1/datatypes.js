@@ -1,0 +1,10 @@
+typeof 'Bruce'
+console.log(typeof 'Bruce');
+typeof 100
+console.log(typeof 100);
+typeof true
+console.log(typeof true);
+typeof null
+console.log(typeof null);
+typeof 'oscar'
+console.log(typeof 'oscar');
